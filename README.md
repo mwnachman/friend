@@ -1,14 +1,11 @@
-FRIEND
-
-Heading
-
-First Responsive Interactive Entity Nanny Droid
-
-Sub-Heading
+# FRIEND #
+## First Responsive Interactive Entity Nanny Droid ##
 
 Your child's home companion and chore manager.
 
-Summary
+!! On instructions on how to navigate/use the boilerplate, see: https://github.com/davezuko/react-redux-starter-kit
+
+### Summary
 
 Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
 FRIEND is your parenting interactive, after-school FRIEND is an after-school schedule and reminder system for your child
@@ -33,27 +30,21 @@ Text reminders to child to perform duties (Twilio?)
 Calorie management
 Sending child memos
 Homework reminders and help
-Problem
 
+### Problem
 Parents are working a record number of hours, and our nation's children are suffering for it. FRIEND gives those neglected children a warm welcome home, a reminder to have a healthy snack, and to help them with their homework.
 
-Solution
-
+### Solution
 FRIEND is an integrated Alexa/desktop service that provides a central place for parents to track their children's responsibilities and safety. Alexa gently prompts the child to provide information about his/her day, records required homework, reminds them about their chores, and suggests eating a healthy snack! Parents can check to see if their child made it home, assign chores, and send notes to their child through Alexa on their computers or mobile device.
 
-Quote from You
-
+### Quote from the Founder
 "The future of parenting is now with a FRIEND in every home"
 
-Me
-How to Get Started
-
+### How to Get Started
 Designed for Amazon Alexa users, concerned parents may install and use this service .....
 
-Customer Quote
-
+### Customer Quote
 "I work 100 hours a week and don't have time to spend with my little Johnny at home. With FRIEND, I'm able to make sure that he's doing his homework and chores while I work. I'm now able to spend more quality time actually connecting with my son in the few hours I see him every week. Thanks FRIEND!" - Maria Avergüenza
 
-Closing and Call to Action
-
+### Closing and Call to Action
 Buy one now!
