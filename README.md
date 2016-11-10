@@ -1,7 +1,7 @@
 # FRIEND - First Responsive Interactive Entity Nanny Droid #
 ## Your child's home companion and chore manager
 
-🎉 On instructions on how to navigate/use the boilerplate, see: https://github.com/davezuko/react-redux-starter-kit 🎉
+🎉 On instructions on how to navigate/use the boilerplate, see: https://github.com/davezuko/react-redux-starter-kit
 
 ### Summary
 
