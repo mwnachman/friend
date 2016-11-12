@@ -32,18 +32,20 @@ class ChildrenView extends React.Component {
       <div style={{ margin: '0 auto' }} >
         <h2>Add a Child</h2>
           <form>
-    		    <input type='text' name='name' value={this.state.name} placeholder='Name' onChange={this.handleInputChange.bind(this)}></input>
-				    {' '}
-				    <input type='text' name='phone' value={this.state.phone} placeholder='Phone Number' onChange={this.handleInputChange.bind(this)}></input>
-				    {' '}
-				    <button className='btn btn-default' onClick={this.addChild.bind(this)}>
-				      Add Child
-				    </button>
-				  </form>
-		  </div>
+            <input type='text' name='name' placeholder='Name' onChange={this.handleInputChange.bind(this)}>
+            </input>
+            {' '}
+            <input type='text' name='phone' placeholder='Phone Number' onChange={this.handleInputChange.bind(this)}>
+            </input>
+            {' '}
+            <button className='btn btn-default' onClick={this.addChild.bind(this)}>
+              Add Child
+            </button>
+          </form>
+      </div>
     );
   }
-};
+}
 
 ChildrenView.propTypes = {
   addChild: React.PropTypes.func.isRequired
