@@ -7,7 +7,7 @@ class AppContainer extends Component {
     routes: PropTypes.object.isRequired,
     store: PropTypes.object.isRequired
   }
-
+ 
   shouldComponentUpdate () {
     return false;
   }
@@ -22,7 +22,7 @@ class AppContainer extends Component {
         </div>
       </Provider>
     );
-  }
+  } 
 }
 
 export default AppContainer;
